@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>D</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_0555_k16.logging.destination</name>
+        <read_roles/>
+        <suffix>logging.destination</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-17 18:21:16</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a6d401080f2f92004e20cf8ce1050e03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_0555_k16.logging.destination</sys_name>
+        <sys_package display_value="k16" source="x_0555_k16">ab18bc8c0feb92004e20cf8ce1050e1e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="k16">ab18bc8c0feb92004e20cf8ce1050e1e</sys_scope>
+        <sys_update_name>sys_properties_a6d401080f2f92004e20cf8ce1050e03</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-17 18:21:16</sys_updated_on>
+        <type>string</type>
+        <value>file</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=a6d401080f2f92004e20cf8ce1050e03"/>
+</record_update>
